@@ -1,3 +1,10 @@
+---
+textline: sdafdsf
+title: Some Title!
+heading: Is this a hero?
+banner_image: "/uploads/2018/02/17/bridge.jpg"
+
+---
 # Forestry Jekyll demo
 
 A Jekyll demo site for [Forestry CMS](https://forestry.io).
@@ -44,5 +51,3 @@ bundle install
 # Run a local server to preview your work 
 bundle exec jekyll serve
 ```
-
-
